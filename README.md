@@ -70,14 +70,14 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 	<tr>
 		<th align="center">
 				<a href="https://github.com/ptprashanttripathi">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+					<sub><b>Jiminash van duuren</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
 			<a href="https://github.com/ptprashanttripathi">
-				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/640px-Joe_Biden_presidential_portrait.jpg" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
